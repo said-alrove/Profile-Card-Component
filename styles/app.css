@@ -140,9 +140,9 @@ body {
 /* ## ATTRIBUTION ## */
 .attribution { 
     position: absolute;
-    inset-block-end: 1rem;
+    inset-block-end: 50%;
     inset-inline-start: 50%;
-    transform: translateX(-50%);
+    transform: translateX(-50%, 610%);
     inline-size: var(--ly-width); 
     font-size: 1.4rem;
     text-align: center;
