@@ -30,8 +30,8 @@ body {
     font-weight: 400;
     background-color: var(--clr-cyan-100); 
     background-image: 
-        url('/assets/icons/bg-pattern-top.svg'),
-        url('/assets/icons/bg-pattern-bottom.svg');
+        url('../assets/icons/bg-pattern-top.svg'),
+        url('../assets/icons/bg-pattern-bottom.svg');
     background-repeat: no-repeat;
     background-position: 
         right calc(47vw + 15%) bottom calc(-27.5vh - 15vw), 
@@ -69,7 +69,7 @@ body {
 .header-container {
     inline-size: 35rem;
     block-size: 14rem;
-    background-image: url('/assets/icons/bg-pattern-card.svg');
+    background-image: url('../assets/icons/bg-pattern-card.svg');
 }
 
 /* ## MAIN-CONTAINER ## */ 
