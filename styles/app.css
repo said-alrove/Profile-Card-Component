@@ -142,7 +142,7 @@ body {
     position: absolute;
     inset-block-end: 50%;
     inset-inline-start: 50%;
-    transform: translate(-50%, 610%);
+    transform: translate(-50%, 710%);
     inline-size: var(--ly-width); 
     font-size: 1.4rem;
     text-align: center;
