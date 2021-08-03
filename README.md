@@ -8,8 +8,8 @@ This is a solution to the [Profile card component](https://www.frontendmentor.io
 
 ## Links
 
-- [Frontend Mentor](https://www.frontendmentor.io/solutions/3columncard-component-with-grid-and-flexbox-css-only-O0Csq8isi)
-- [Github Live](https://said-alrove.github.io/three-columns-card/)
+- [Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-using-flexbox-and-position-A_OgSM9LR)
+- [Github Live](https://said-alrove.github.io/profile-card-component/)
 
 ## Author
 
