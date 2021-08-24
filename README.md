@@ -10,7 +10,7 @@ This is a solution to the [Profile card component](https://www.frontendmentor.io
 ## Links
 
 - [Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-using-flexbox-and-position-A_OgSM9LR)
-- [Netlify](https://pcc-129222.netlify.app/)
+- [Netlify](https://pcc-eff5f9.netlify.app/)
 
 ## Author
 
